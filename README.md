@@ -3,4 +3,4 @@
 I am learning and practicing ML & DL and would like to post my notebooks here.
 
 * Artificial Neural Network model: predict the Churn rate of the bank
-* XGBoody model: predict house price in Melbourne
+* XGBoost model: predict house price in Melbourne
