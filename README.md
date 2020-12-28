@@ -7,3 +7,5 @@
 > - https://www.kaggle.com/dejavu23/house-prices-eda-to-ml-beginner
       
 * Classification_Churn_ANN: Artificial Neural Network mode,the Churn rate of the bank
+
+* RegressionModels_Solar_Radiation: EDA, Compare Regression Models
