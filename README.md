@@ -1,5 +1,10 @@
 # Machine_Learning & Deep_Learning_Practice
 
+# Storm Prediction ANN
+* based on ams-ml-python-course
+* Storm related Vorticity Prediction with Aritifial Nueral Network
+* EDA of wind and temperature data
+
 # Advanced_house_price_prediction
 * EDA and Random Forest Regression model with GridSearchCV.
 > Reference 
