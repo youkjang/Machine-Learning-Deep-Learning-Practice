@@ -5,16 +5,16 @@
 * Storm related Vorticity Prediction with Aritifial Nueral Network
 * EDA of wind and temperature data
 
-# Advanced_house_price_prediction
+# Advanced house price prediction
 * EDA and Random Forest Regression model with GridSearchCV.
 > Reference 
 > - https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
 > - https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda
 > - https://www.kaggle.com/dejavu23/house-prices-eda-to-ml-beginner
       
-# Classification_Churn_ANN
+# Classification Churn ANN
 * Artificial Neural Network model
 * Predict the Churn rate of the bank customers
 
-# RegressionModels_Solar_Radiation
+# RegressionModels Solar Radiation
 * EDA and Compare Regression Models
