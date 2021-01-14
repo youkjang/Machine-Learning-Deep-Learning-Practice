@@ -8,7 +8,7 @@
 
 ### Classification Problem: AUROC and ROC curves
 * Storm Prediction
-* Logistic Regression, Random Forest, Naive Bayes, SVM, XGBoost, and Gradient Boosting
+* Logistic Regression, Random Forest, Naive Bayes, KNN, SVM, XGBoost, and Gradient Boosting
 * AUROC and ROC curves for evaluations of the models
 
 ### Classification Problem: Churn rate prediction
