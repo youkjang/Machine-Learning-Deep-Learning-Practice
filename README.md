@@ -6,6 +6,11 @@
 * Heatmap of wind, temperature, reflectivity, and relative vorticity data
 * Based on ams-ml-python-course at Github
 
+### Classification Problem: AUROC and ROC curves
+* Storm Prediction
+* Logistic Regression, Random Forest, Naive Bayes, SVM, XGBoost, and Gradient Boosting
+* AUROC and ROC curves for evaluations of the models
+
 ### Classification Problem: Churn rate prediction
 * Encoding categorical data
 * Split the data into the training and test set
@@ -13,7 +18,7 @@
 * Building ANN and predict the Churn rate of the bank customers
 
 ### Regression Problem: Solar Radiation prediction
-* Heatmap and scatter plots of weather features (temperature, pressure,solar radiation, etc.)
+* Heatmap and scatter plots of weather features (temperature, pressure, solar radiation, etc.)
 * Linear regression, Random Forest, Support Vector, XGBoost, Gradient Boosting, and ANN
 * Evaluations of different regression models
 
