@@ -7,7 +7,7 @@ I am an enthusiastic Machine Learning practitioner. Here, my mini-projects are b
 * Heatmap of wind, temperature, reflectivity, and relative vorticity data
 * Based on ams-ml-python-course at Github
 
-### Classification Problem: AUROC and ROC curves
+### Classification Problem: ROC curves
 * Storm Prediction
 * Logistic Regression, Random Forest, Naive Bayes, KNN, SVM, XGBoost, and Gradient Boosting
 * AUROC and ROC curves for evaluations of the models
