@@ -1,5 +1,5 @@
 ## Machine Learning & Deep Learning Practice
-I am an enthusiastic Machine Learning practitioner. Here, my mini-projects are based on Kaggle, Github, Udemy online courses, etc.
+I am a Machine Learning practitioner. Here, my mini-projects are based on Kaggle, Github, Udemy online courses, etc.
 
 ### Storm Prediction 
 * Storm Prediction as a binary classification 
