@@ -16,7 +16,7 @@ I am a Machine Learning practitioner. Here, my mini-projects are based on Kaggle
 * Encoding categorical data
 * Split the data into the training and test set
 * Feature Scaling
-* Building ANN and predict the Churn rate of the bank customers
+* Building ANN and predicting the Churn rate of the bank customers
 
 ### Regression Problem: Solar Radiation prediction
 * Heatmap and scatter plots of weather features (temperature, pressure, solar radiation, etc.)
